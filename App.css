@@ -1,0 +1,13 @@
+.h1-div{
+    text-align: center;
+}
+
+.para-text{
+    background-color: lavender;
+    display: flex;
+    
+}
+
+.chat-div{
+   display: flex; 
+}
